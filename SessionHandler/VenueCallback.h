@@ -2,8 +2,8 @@
 // Created by Ganesh Rajput on 04-07-2018.
 //
 
-#ifndef FIRSTPROJECT_VENUECALLBACK_H
-#define FIRSTPROJECT_VENUECALLBACK_H
+#ifndef SESSIONHANDLER_VENUECALLBACK_H
+#define SESSIONHANDLER_VENUECALLBACK_H
 
 
 #include "VenueSession.h"
@@ -19,4 +19,4 @@ class VenueCallback {
 };
 
 
-#endif //FIRSTPROJECT_VENUECALLBACK_H
+#endif //SESSIONHANDLER_VENUECALLBACK_H

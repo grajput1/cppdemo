@@ -2,8 +2,8 @@
 // Created by Ganesh Rajput on 04-07-2018.
 //
 
-#ifndef FIRSTPROJECT_VENUEMESSAGE_H
-#define FIRSTPROJECT_VENUEMESSAGE_H
+#ifndef SESSIONHANDLER_VENUEMESSAGE_H
+#define SESSIONHANDLER_VENUEMESSAGE_H
 
 
 #include <string>
@@ -16,4 +16,4 @@ public:
     virtual std::string decodeMessage(const T& message) = 0;
 };
 
-#endif //FIRSTPROJECT_VENUEMESSAGE_H
+#endif //SESSIONHANDLER_VENUEMESSAGE_H

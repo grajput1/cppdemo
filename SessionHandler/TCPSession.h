@@ -2,8 +2,8 @@
 // Created by Ganesh Rajput on 25-06-2018.
 //
 
-#ifndef FIRSTPROJECT_TCPSESSION_H
-#define FIRSTPROJECT_TCPSESSION_H
+#ifndef SESSIONHANDLER_TCPSESSION_H
+#define SESSIONHANDLER_TCPSESSION_H
 
 
 #include "VenueSession.h"
@@ -22,4 +22,4 @@ public:
 };
 
 
-#endif //FIRSTPROJECT_TCPSESSION_H
+#endif //SESSIONHANDLER_TCPSESSION_H
